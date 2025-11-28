@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dain%27s%20GitHub)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdi1021&layout=compact)
-<img src="https://github.com/hdi1021/hdi1021/blob/output/github-contribution-grid-snake.svg"/>
 <!--
 **hdi1021/hdi1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
