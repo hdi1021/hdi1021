@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdi1021icons=true&theme=radical)
 <!--
 **hdi1021/hdi1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
